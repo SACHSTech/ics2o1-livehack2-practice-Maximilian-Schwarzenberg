@@ -1,7 +1,7 @@
 """
 Name: Max S.
 Purpose: To find out if you are able to go on vacation during the summer. 
-Due date: ?
+Date: Feb, 12 2021
 """
 
  # Input of data
